@@ -5,7 +5,7 @@
 P = int(input("Enter the amount"))
 R = int(input("Enter rate of interest"))
 N = int(input("Enter number of period"))
-SI = P*N*R/100
+SI = P*N*R/100 
 print("Simple Interest",SI)
 
 2) Write a programe to find area of traingle
